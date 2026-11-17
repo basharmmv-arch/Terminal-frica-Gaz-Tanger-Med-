@@ -1,17 +1,17 @@
 {
   "name": "Terminal África Gaz Tanger Med",
   "short_name": "TAG Tanger Med",
-  "description": "Operations, AI Document Extraction & Offline Archive for Terminal África Gaz Tanger Med",
-  "start_url": "./index.html",
+  "description": "Operations & Archive for Terminal África Gaz Tanger Med",
+  "start_url": "./index.html?v=2",
   "display": "standalone",
   "background_color": "#0b1120",
   "theme_color": "#0f172a",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2933/2933921.png",
+      "src": "data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230f172a'/%3E%3Crect x='24' y='24' width='464' height='464' rx='85' fill='none' stroke='%23f59e0b' stroke-width='20'/%3E%3Ctext x='256' y='255' font-family='sans-serif' font-weight='900' font-size='145' fill='%23f59e0b' text-anchor='middle'%3ETAG%3C/text%3E%3Ctext x='256' y='345' font-family='sans-serif' font-weight='700' font-size='52' fill='%23f8fafc' text-anchor='middle'%3ETANGER MED%3C/text%3E%3C/svg%3E",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any maskable"
     }
   ]
